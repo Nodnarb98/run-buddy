@@ -11,3 +11,5 @@ https://nodnarb98.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Brandon Hart
+
+### ©️2019 Run Buddy, Inc
